@@ -1,0 +1,16 @@
+div a {
+    color: #1976d2;
+    display: inline-block;
+    cursor: pointer;
+    font-size: large;
+}
+ div a:hover {
+     color: #5599dd;
+ }
+
+ div button {
+     background-color: #1976d2;
+     color: #ffffff;
+     margin-bottom: 10px;
+     border-radius: 0;
+ }
